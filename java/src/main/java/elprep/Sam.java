@@ -5,6 +5,6 @@
 package elprep;
 
 public class Sam {
-  public SamHeader header;
-  public SamAlignment[] alignments;
+    public SamHeader header;
+    public SamAlignment[] alignments;
 }
